@@ -1,11 +1,9 @@
 # Hello-world
-Initial and First Repository
+*Initial and First Repository*
 
 ## Table of Contents
 - PROJECT TITLE
 - DESCRIPTION
-- HOW TO RUN PROGRAM
-- FILES USED
 - ADDITIONAL DOCUMENTATION
 - VERSIONING 
 
@@ -13,11 +11,10 @@ Initial and First Repository
 Hello World Sample
 
 ## Description
-Used for BAIS:3050
-
-## Files Used
-
+Used for BAIS:3050, BAIS Professional Preparation. Used as a sample repository as practice in order to get familiar with the system and program. 
 
 ## Additional Documentation
+*N/A*
 
 ## Versioning
+0.1 (22SEP24 | 14:52 CDT)
